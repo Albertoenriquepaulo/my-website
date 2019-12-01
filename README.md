@@ -1,6 +1,7 @@
 # My Website. Modified by Alberto Paulo
+
 My 2nd Repository w Udemy Git Training
 
-Now editing on update-readme branch
+This is really awesome website
 
-Updating locally
+Updates made on master on github before rebase
